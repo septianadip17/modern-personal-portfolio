@@ -10,6 +10,7 @@ export const Home = () => {
     {/* Background Effects */}
 
     {/* Navbar */}
+    <nav></nav>
 
     {/* Main Content */}
 
