@@ -7,6 +7,7 @@ export const NotFound = () => {
         <p>Please check the URL or return to the homepage.</p>
         <p>If you believe this is an error, please contact support.</p>
         <p>Thank you for your understanding!</p>
+        {/* Add any additional content here */}
       </div>
 
       <a href="/">Go to Homepage</a>
