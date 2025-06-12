@@ -8,6 +8,7 @@ export const NotFound = () => {
         <p>If you believe this is an error, please contact support.</p>
         <p>Thank you for your understanding!</p>
         {/* Add any additional content here */}
+        {/* Add any additional content here */}
       </div>
 
       <a href="/">Go to Homepage</a>
